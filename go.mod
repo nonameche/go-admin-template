@@ -3,7 +3,9 @@ module bin
 go 1.16
 
 require (
+	github.com/GoAdminGroup/filemanager v0.0.6
 	github.com/GoAdminGroup/go-admin v1.2.22
+	github.com/GoAdminGroup/librarian v0.0.5
 	github.com/GoAdminGroup/themes v0.0.43
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/buaazp/fasthttprouter v0.1.1 // indirect
@@ -14,6 +16,7 @@ require (
 	github.com/gobuffalo/packr/v2 v2.8.1 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
+	github.com/h2non/filetype v1.1.1 // indirect
 	github.com/imkira/go-interpol v1.1.0 // indirect
 	github.com/jinzhu/gorm v1.9.16
 	github.com/moul/http2curl v1.0.0 // indirect

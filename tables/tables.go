@@ -12,9 +12,13 @@ import "github.com/GoAdminGroup/go-admin/plugins/admin/modules/table"
 //
 // example:
 //
+// "users" => http://localhost:9033/admin/info/users
+//
 // example end
 //
 var Generators = map[string]table.Generator{
+
+	"users": GetUsersTable,
 
 	// generators end
 }

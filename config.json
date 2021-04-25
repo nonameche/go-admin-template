@@ -16,7 +16,7 @@
 	"prefix": "admin",
 	"theme": "sword",
 	"store": {
-		"path": "./uploads",
+		"path": "./uploads", 
 		"prefix": "uploads"
 	},
 	"title": "GoAdmin",
